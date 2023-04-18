@@ -10,5 +10,5 @@ A data visualisation project with [@ethangoldo](https://github.com/ethangoldo)
 - Finally, we visualise it in a graph.
 
 ### ❓ How can we measure differences between groups?
-- By using metrics such as the [clustering coefficient](https://en.wikipedia.org/wiki/Clustering_coefficient), we can measure the degree to which the nodes cluster together.
-- We can also measure the [network density](https://www.the-vital-edge.com/what-is-network-density/) for each cluster to explore whether there is more potential collaboration in different areas.
+- By considering metrics such as the [degree distribution](https://en.wikipedia.org/wiki/Degree_distribution), we can learn things about the network.
+- We can also measure the [eigenvector centrality](https://en.wikipedia.org/wiki/Eigenvector_centrality), to find the important nodes.
